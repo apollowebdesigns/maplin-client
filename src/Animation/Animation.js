@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import './App.css';
+import './Animation.css';
 
-class App extends Component {
+class Animation extends Component {
   render() {
     return (
       <div className="App">
@@ -11,4 +11,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default Animation;
